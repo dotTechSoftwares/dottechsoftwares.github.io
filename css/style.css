@@ -8740,7 +8740,7 @@ h1, h2, h3, h4, h5,
                 padding-right: 0;
                 font-size: 26px; } }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
-          font-size: 40px;
+          font-size: 50px;
           text-transform: uppercase;
           color: #fff;
           line-height: 1.1;
@@ -8750,7 +8750,7 @@ h1, h2, h3, h4, h5,
             color: #000000;
             display: block; }
         .owl-carousel.home-slider .slider-item .slider-text h2 {
-          font-size: 16px;
+          font-size: 20px;
           text-transform: uppercase;
           letter-spacing: 2px;
           font-family: "Nunito Sans", Arial, sans-serif;
@@ -9153,13 +9153,13 @@ h1, h2, h3, h4, h5,
         color: #fff !important; }
 
 .wrap-about h3 {
-  font-size: 30px;
-  font-weight: 700; }
+  font-size: 40px;
+  font-weight: 800; }
 
 @media (max-width: 767.98px) {
   .wrap-about .img {
     height: 350px;
-    margin-bottom: 30px; } }
+    margin-bottom: 20px; } }
 
 .services {
   padding: 0;
